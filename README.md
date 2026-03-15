@@ -1,5 +1,9 @@
 # Tride App
 
+> Learn More: https://tride-app.github.io/project
+
+![Discord](https://img.shields.io/discord/1482790798016643103?style=for-the-badge&logo=discord&logoColor=white)
+
 Tride is an intercity carpooling platform built around transparent trip payments and deterministic settlement. This repository contains the web application for the Tride user experience.
 
 The App repo is responsible for presenting the product, onboarding riders and drivers, and later handling core flows such as trip discovery, booking, wallet connection, and boarding confirmation.
